@@ -1,0 +1,35 @@
+Scegliere cosa guardare su Netflix
+Che barba, che noia, che noia, che barba! 
+
+
+/* APPLICAZIONE FUNZIONALE ALL'INTERNO DI NETFLIX */
+
+
+
+Scegliere cosa guardare su Netflix
+START
+ -accendere il dispositivo
+ -cercare l'applicazione
+ -aprire l'applicazione
+ -fare il login
+
+ SE (so cosa guardare?)
+ -cerco cosa volgio guardare 
+-schiaccio play
+
+ ALTRIMENTI
+-scorro la pagina di netflix 
+-scelgo quello che mi piace
+
+FINE SE
+
+SE (l'ho trovato)
+-schiaccio play 
+
+ALTRIMENTI 
+-ritorno a guardare i suggeriti
+
+FINE SE 
+
+FINE
+
